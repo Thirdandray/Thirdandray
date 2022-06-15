@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ricard Argana</h1>
+<h1 align="center">Hi 👋, I'm Ricard T</h1>
 
 <h3 align="center">I am professional in Quality Assurance and Anspiring to be a Data Scientist</h3>
-<img align="right" alt="Coding" width="450" src="https://c.tenor.com/DKzsH-YSXI4AAAAd/anime-chill.gif](https://www.pinterest.ph/pin/567523990538356835/">
+<img align="right" alt="Coding" width="450" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardothe3rd&label=Profile%20views&color=0e75b6&style=flat" alt="ricardothe3rd" /> </p>
